@@ -13,6 +13,7 @@
 		9C64FF4B19D858AC00C1C31B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C64FF4A19D858AC00C1C31B /* Images.xcassets */; };
 		9C64FF4E19D858AC00C1C31B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9C64FF4C19D858AC00C1C31B /* LaunchScreen.xib */; };
 		9C64FF5A19D858AC00C1C31B /* AgeOfLaikaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C64FF5919D858AC00C1C31B /* AgeOfLaikaTests.swift */; };
+		9C64FF6419D85A2600C1C31B /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C64FF6319D85A2600C1C31B /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		9C64FF5319D858AC00C1C31B /* AgeOfLaikaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AgeOfLaikaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C64FF5819D858AC00C1C31B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9C64FF5919D858AC00C1C31B /* AgeOfLaikaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgeOfLaikaTests.swift; sourceTree = "<group>"; };
+		9C64FF6319D85A2600C1C31B /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				9C64FF4519D858AC00C1C31B /* ViewController.swift */,
 				9C64FF4719D858AC00C1C31B /* Main.storyboard */,
 				9C64FF4A19D858AC00C1C31B /* Images.xcassets */,
+				9C64FF6319D85A2600C1C31B /* AgeOfLaika.jpg */,
 				9C64FF4C19D858AC00C1C31B /* LaunchScreen.xib */,
 				9C64FF4119D858AC00C1C31B /* Supporting Files */,
 			);
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9C64FF4919D858AC00C1C31B /* Main.storyboard in Resources */,
+				9C64FF6419D85A2600C1C31B /* AgeOfLaika.jpg in Resources */,
 				9C64FF4E19D858AC00C1C31B /* LaunchScreen.xib in Resources */,
 				9C64FF4B19D858AC00C1C31B /* Images.xcassets in Resources */,
 			);
